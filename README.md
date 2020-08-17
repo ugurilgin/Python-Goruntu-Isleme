@@ -45,7 +45,9 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * ![logo](/SS/9.png)
 * ![logo](/SS/10.png)
 * ![logo](/SS/11.png)
-* Image Gradient Butonuna tıklanılarak .Laplace ,SobelX ve SobelY algoritmaları kullanılarak resimde işlemler gerçekleştirilir.
-* ![logo](/SS/9.png)
+* Convexity Detect butonuna tıklanarak dış bükey barından görüntüler işlenir.
+* ![logo](/SS/12.png)
+* Smooth Image butonuna tıklanarak dış bükey barından görüntüler işlenir.
+
 * ![logo](/SS/10.png)
 * ![logo](/SS/11.png)
