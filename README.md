@@ -47,7 +47,11 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * ![logo](/SS/11.png)
 * Convexity Detect butonuna tıklanarak dış bükey barından görüntüler işlenir.
 * ![logo](/SS/12.png)
-* Smooth Image butonuna tıklanarak dış bükey barından görüntüler işlenir.
+* Smoothing Image butonuna tıklanarak resim üzerinde bulanıklaştırma işlemleri gerçekleştirilir.
 
-* ![logo](/SS/10.png)
-* ![logo](/SS/11.png)
+* ![logo](/SS/13.png)
+* Image  Pyramids butonuna tıklanarak iki resim birleştirilip birleşme yeri yumuşatılır ve tek bir görüntü gibi görünmesi sağlanır.
+
+* ![logo](/SS/14.png)
+## Hazırlayanlar
+Uğur ILGIN
