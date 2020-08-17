@@ -33,3 +33,11 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * Face Detection Butonuna tıklanılarak .Yüz tanıma işlemlerinin yapılmasını sağlayan pencere açılır.Bu pencere üzerinden Resimden yüz algılama,Videodan yüz algılama,Webcam üzerinden yüz algılama işlemlerini gerçekleştirebilirsiniz.
 * ![logo](/SS/2.png)
 * ![logo](/SS/3.png)
+* Object Detection Butonuna tıklanılarak .Nesne tanıma işlemlerinin yapılmasını sağlayan pencere açılır.Bu pencere üzerinden Resimden nesne algılama,Videodan nesne algılama,Webcam üzerinden nesne algılama işlemlerini gerçekleştirebilirsiniz.
+* ![logo](/SS/4.png)
+* ![logo](/SS/5.png)
+* OCR butonuna tıklanarak.Seçilen resimdeki karakter algılanıp text biçimine dönüştürülür.Teseract-OCR konumunu kaydetmelisiniz.
+* ![logo](/SS/6.png)
+* Edge Detection Butonuna tıklanılarak .Köşe tanıma işlemlerinin yapılmasını sağlayan pencere açılır.Bu pencere üzerinden Resimden köşe algılama,Videodan köşe algılama,Webcam üzerinden köşe algılama işlemlerini gerçekleştirebilirsiniz.
+* ![logo](/SS/7.png)
+* ![logo](/SS/8.png)
