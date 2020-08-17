@@ -6,9 +6,13 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * İndirilen data setini program klasöründeki data klasörünün içine kopyalamanız gerekmektedir.
 * 2-) Aşağıdaki komutlar yardımıyla  cmd ekranı üzerinden python kütüphanelerini indirmelisiniz.
 ~~~javascript
-* A walk of the public snmp MIB was not detected by snort. Enabling rules in protocol-snmp.rules produced:
-* PROTOCOL-SNMP public access udp [**] [Classification: Attempted Information Leak]
-* PROTOCOL-SNMP request udp [**] [Classification: Attempted Information Leak]
+* pip install Pillow==2.2.2
+* pip install opencv-python
+* pip install numpy
+* pip install matplotlib
+* pip install pytesseract
 ~~~
+* 3-) Proje klasöründe bulunan teseract-OCR uygulamasının kurulması gerekmektedir.
+* 4-) Teseract.exe dosyasının ProgramFiles taki dosya yolunun program içerisindeki OCR/Teserract Path  kısmındaki file dialog penceresinden seçilme işlemi gerçekleştikten sonra kaydet butonuna basılıp dosya yolunun kaydedilmesi gerekmektedir.
 
 
