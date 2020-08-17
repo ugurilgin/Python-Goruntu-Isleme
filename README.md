@@ -1,5 +1,6 @@
 # Python-Goruntu-Isleme
 Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer Aldığı Bir Masaüstü Uygulamadır.
+* İşlenmek istenen görüntüler program klasöründen farklı bir klasörde bulunmalıdır
 ## Installation Guide
 * 1-) Python 3 ü aşağıdaki linkten indirmelisiniz.
 - https://www.python.org/downloads/
