@@ -27,7 +27,9 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * python3 main.py
 ~~~
 * Veya visual code üzerinden main.py dosyası çalıştırılır.
-## Kullanım Klavuzu
+## Kullanma Kılavuzu
 * Program ilk açılışta sizi görsel bir arayüz ile karşılar. Bu Arayüz üzerinden işlem yapmak istediğiniz pencereyi görüntüleyebilirsiniz.
 * ![logo](/SS/1.png)
-
+* Face Detection Butonuna tıklanılarak .Yüz tanıma işlemlerinin yapılmasını sağlayan pencere açılır.Bu pencere üzerinden Resimden yüz algılama,Videodan yüz algılama,Webcam üzerinden yüz algılama işlemlerini gerçekleştirebilirsiniz.
+* ![logo](/SS/2.png)
+* ![logo](/SS/3.png)
