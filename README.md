@@ -41,3 +41,11 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * Edge Detection Butonuna tıklanılarak .Köşe tanıma işlemlerinin yapılmasını sağlayan pencere açılır.Bu pencere üzerinden Resimden köşe algılama,Videodan köşe algılama,Webcam üzerinden köşe algılama işlemlerini gerçekleştirebilirsiniz.
 * ![logo](/SS/7.png)
 * ![logo](/SS/8.png)
+* Image Gradient Butonuna tıklanılarak .Laplace ,SobelX ve SobelY algoritmaları kullanılarak resimde işlemler gerçekleştirilir.
+* ![logo](/SS/9.png)
+* ![logo](/SS/10.png)
+* ![logo](/SS/11.png)
+* Image Gradient Butonuna tıklanılarak .Laplace ,SobelX ve SobelY algoritmaları kullanılarak resimde işlemler gerçekleştirilir.
+* ![logo](/SS/9.png)
+* ![logo](/SS/10.png)
+* ![logo](/SS/11.png)
