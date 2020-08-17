@@ -1,5 +1,6 @@
 # Python-Goruntu-Isleme
 Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer Aldığı Bir Masaüstü Uygulamadır.
 ## Installation Guide
-Yolov3 data setinini aşağıdaki linkten indirebilirsiniz.
-https://pjreddie.com/media/files/yolov3.weights.
+Yolov3 data setinini aşağıdaki linkten indirebilirsiniz..
+- `$ https://pjreddie.com/media/files/yolov3.weights
+
