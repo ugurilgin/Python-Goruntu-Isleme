@@ -1,4 +1,6 @@
 # Python-Goruntu-Isleme
+![logo](/SS/logo.png)
+
 Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer Aldığı Bir Masaüstü Uygulamadır.
 * İşlenmek istenen görüntüler program klasöründen farklı bir klasörde bulunmalıdır
 ## Installation Guide
