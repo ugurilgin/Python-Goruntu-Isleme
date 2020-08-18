@@ -97,11 +97,11 @@ class EdgeDetection:
         imageButton.image=fotoImage
         imageButton.place(x=120,y=575)
 
-        videoButton=Button(self.root,image=videoImage,bd=0,highlightthickness=0,command=self.faceVideo,bg="#2C073E",fg="#000000")
+        videoButton=Button(self.root,image=videoImage,bd=0,highlightthickness=0,command=self.edgeVideo,bg="#2C073E",fg="#000000")
         videoButton.image=videoImage
         videoButton.place(x=220,y=575)
 
-        streamButton=Button(self.root,image=camImage,bd=0,highlightthickness=0,command=self.faceWeb,bg="#2C073E",fg="#ffffff")
+        streamButton=Button(self.root,image=camImage,bd=0,highlightthickness=0,command=self.edgeWeb,bg="#2C073E",fg="#ffffff")
         streamButton.image=camImage
         streamButton.place(x=320,y=575)
        
@@ -135,14 +135,14 @@ class EdgeDetection:
     
     #<---Fonksiyonların Tanımlanması--->
     
-    def faceVideo(self):
+    def edgeVideo(self):
         try:
             a=EdgeDetectAI(self.filename)
             a.edgeDetectionVideo()
         except:
             pass
 
-    def faceWeb(self):
+    def edgeWeb(self):
         a=EdgeDetectAI(" ")
         a.edgeDetectionWebcam()
 
