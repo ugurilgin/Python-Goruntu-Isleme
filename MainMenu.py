@@ -77,7 +77,7 @@ class MainMenu:
         FaceDetection(self.window)
     def GoObjectDetection(self):
         self.Quit()
-        ObjectDetectionClass(self.window)
+        ObjectDetection(self.window)
     def GoOCRDetection(self):
         self.Quit()
         OCRDetection(self.window)

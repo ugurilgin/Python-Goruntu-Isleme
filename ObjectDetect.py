@@ -7,7 +7,7 @@ import sys
 import numpy as np
 
 
-class ObjectDetectionClass:
+class ObjectDetection:
     def __init__(self,master):
         def MainmenuFonk():
             master.update()
