@@ -3,6 +3,7 @@
 
 Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer Aldığı Bir Masaüstü Uygulamadır.
 * İşlenmek istenen görüntüler program klasöründen farklı bir klasörde bulunmalıdır
+* Programın videosunu yuotube'dan izleyebilirsiniz
 [![Videoya Gözatınız](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=_Msn1c6vIPw)
 ## Installation Guide
 * 1-) Python 3 ü aşağıdaki linkten indirmelisiniz.
