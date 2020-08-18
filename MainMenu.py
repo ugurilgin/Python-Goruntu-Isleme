@@ -38,20 +38,20 @@ class MainMenu:
         OCR=Button(self.window,image=ocr,bd=0,highlightthickness=0,command=self.GoOCRDetection,width=168,height=162,bg="#F4192B",fg="#000000")
         OCR.place(x=520,y=80)
 
-        edgeButton=Button(self.window,image=edge,bd=0,highlightthickness=0,command=self.GoEDGEDetection,width=168,height=162,bg="#F4192B",fg="#000000")
+        edgeButton=Button(self.window,image=edge,bd=0,highlightthickness=0,command=self.GoEdgeDetection,width=168,height=162,bg="#F4192B",fg="#000000")
         edgeButton.place(x=740,y=80)
         
 
-        gradientButton=Button(self.window,image=setting,bd=0,highlightthickness=0,command=self.GoGRADIENTDetection,width=168,height=162,bg="#F4192B",fg="#000000")
+        gradientButton=Button(self.window,image=setting,bd=0,highlightthickness=0,command=self.GoGradientDetection,width=168,height=162,bg="#F4192B",fg="#000000")
         gradientButton.place(x=80,y=350)
 
-        convexityButton=Button(self.window,image=convext,bd=0,highlightthickness=0,command=self.GoCONVEXITYDetection,width=168,height=162,bg="#F4192B",fg="#000000")
+        convexityButton=Button(self.window,image=convext,bd=0,highlightthickness=0,command=self.GoConvexityDetection,width=168,height=162,bg="#F4192B",fg="#000000")
         convexityButton.place(x=300,y=350)
 
-        blurButton=Button(self.window,image=blur,bd=0,highlightthickness=0,command=self.GoBLURIMAGE,width=168,height=162,bg="#F4192B",fg="#000000")
+        blurButton=Button(self.window,image=blur,bd=0,highlightthickness=0,command=self.GoBlurImage,width=168,height=162,bg="#F4192B",fg="#000000")
         blurButton.place(x=520,y=350)
 
-        pyramidButton=Button(self.window,image=pyramid,bd=0,highlightthickness=0,command=self.GoIMAGEPYRAMIDS,width=168,height=162,bg="#F4192B",fg="#000000")
+        pyramidButton=Button(self.window,image=pyramid,bd=0,highlightthickness=0,command=self.GoImagePyramids,width=168,height=162,bg="#F4192B",fg="#000000")
         pyramidButton.place(x=740,y=350)
 
         
@@ -81,19 +81,19 @@ class MainMenu:
     def GoOCRDetection(self):
         self.Quit()
         OCRDetection(self.window)
-    def GoEDGEDetection(self):
+    def GoEdgeDetection(self):
         self.Quit()
         EdgeDetection(self.window)    
-    def GoGRADIENTDetection(self):
+    def GoGradientDetection(self):
         self.Quit()
         GradientDetection(self.window) 
-    def GoCONVEXITYDetection(self):
+    def GoConvexityDetection(self):
         self.Quit()
         ConvexityDetection(self.window)   
-    def GoBLURIMAGE(self):
+    def GoBlurImage(self):
         self.Quit()
         ImageSmoothing(self.window) 
-    def GoIMAGEPYRAMIDS(self):
+    def GoImagePyramids(self):
         self.Quit()
         ImagePyramid(self.window)     
     def Quit(self):
