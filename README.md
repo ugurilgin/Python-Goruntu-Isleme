@@ -31,7 +31,7 @@ Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer 
 * Veya visual code üzerinden main.py dosyası çalıştırılır.
 ## Kullanma Kılavuzu
 * UML Class Diyagramı
-* ![logo](/SS/Uml.png)
+* ![logo](/SS/UML.png)
 * Program ilk açılışta sizi görsel bir arayüz ile karşılar. Bu Arayüz üzerinden işlem yapmak istediğiniz pencereyi görüntüleyebilirsiniz.
 * ![logo](/SS/1.png)
 * Face Detection Butonuna tıklanılarak .Yüz tanıma işlemlerinin yapılmasını sağlayan pencere açılır.Bu pencere üzerinden Resimden yüz algılama,Videodan yüz algılama,Webcam üzerinden yüz algılama işlemlerini gerçekleştirebilirsiniz.
