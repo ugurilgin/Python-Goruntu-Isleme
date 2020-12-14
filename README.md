@@ -1,6 +1,6 @@
 # Python-Goruntu-Isleme
 ![logo](/SS/logo.png)
-
+[In English](https://github.com/ugurilgin/Python-Goruntu-Isleme/blob/master/English.md "English.md")
 Python'daki Görüntü İşleme Araçlarının En Çok Kullanılanlarının Yer Aldığı Bir Masaüstü Uygulamadır.
 * İşlenmek istenen görüntüler program klasöründen farklı bir klasörde bulunmalıdır
 * Programın videosunu youtube'dan izleyebilirsiniz
