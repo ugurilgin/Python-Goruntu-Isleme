@@ -1,6 +1,5 @@
 # Python-Image-Processing
 ![logo](/SS/logo.png)
-[Türkçe](https://github.com/ugurilgin/Python-Goruntu-Isleme/blob/master/Readme.md "Türkçe.md")
 
 It is a Desktop Application with the Most Used Image Processing Tools in Python.
 * The images to be processed must be in a different folder than the program folder.
