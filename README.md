@@ -1,3 +1,4 @@
+# Before sharing, permission must be requested
 # Python-Goruntu-Isleme
 ![logo](/SS/logo.png)
 * [In English](https://github.com/ugurilgin/Python-Goruntu-Isleme/blob/master/English.md "English.md")
